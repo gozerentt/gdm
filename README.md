@@ -1,2 +1,3 @@
-# gdm
-Gozerent`s Download Manager
+# GDM - Gozerent`s Download Manager
+
+Менеджер для загрузки базовых приложений существенно для новой системы
