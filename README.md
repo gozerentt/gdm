@@ -8,5 +8,6 @@
 - AAct - активатор :)
 - Стек из браузеров на любой вкус(Chrome, Firefox, Yandex, Opera)
 - K-Lite Codec Pack - пак кодеков и удобный видео/аудио проигрыватель
-- И ссылка на на форум repack.me откуда были позаимствованны AAct и Office 2013
+
+Спасибо сайту repack.me за AAct и Office2013
 
